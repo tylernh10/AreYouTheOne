@@ -6,7 +6,7 @@ This was my honors project for CSE 2050, Data Structures and Object-Oriented Des
 The premise of this project was very wide open, and largely open to interpretation. The only guideline was that the program was to function similarly to the reality TV show "Are You The One?" while using a GUI to recreate this. This is the wikipedia link to get a more specifc description of the official rules, which are vaguely mimicked here: https://en.wikipedia.org/wiki/Are_You_the_One%3F
 
 Below I will outline some of the key features of gameplay:
-1. Random users are selected, and secret pairs are made.
+1. Random 'contestants' are generated, and secret pairs are made from these contestants.
 2. Each round, the user tries to guess who the pairs are. They are told how many guesses they have made are correct.
 3. They are able to select one pair per round to go to the "truth booth" where they will get a definitive answer on whether this pair is a match or not.
 4. Based on the results of the truth booth, each user will have data stored with it that says who is known to be a match or not a match with them. This can be accessed by the user to narrow down later guesses.
